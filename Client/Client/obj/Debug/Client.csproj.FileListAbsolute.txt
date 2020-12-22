@@ -1,0 +1,10 @@
+C:\Users\JEMZ\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\JEMZ\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\JEMZ\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\JEMZ\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\JEMZ\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\JEMZ\Desktop\Server-Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\JEMZ\Desktop\Server-Client\Client\Client\obj\Debug\Client.exe
+C:\Users\JEMZ\Desktop\Server-Client\Client\Client\obj\Debug\Client.pdb
+C:\Users\JEMZ\Desktop\Server-Client\Client\Client\bin\Debug\Client.exe
+C:\Users\JEMZ\Desktop\Server-Client\Client\Client\bin\Debug\Client.pdb

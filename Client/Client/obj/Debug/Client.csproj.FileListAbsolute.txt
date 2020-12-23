@@ -8,3 +8,6 @@ C:\Users\JEMZ\Desktop\Server-Client\Client\Client\obj\Debug\Client.exe
 C:\Users\JEMZ\Desktop\Server-Client\Client\Client\obj\Debug\Client.pdb
 C:\Users\JEMZ\Desktop\Server-Client\Client\Client\bin\Debug\Client.exe
 C:\Users\JEMZ\Desktop\Server-Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\AnjeL\Desktop\Server-Cleint\Server-Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\AnjeL\Desktop\Server-Cleint\Server-Client\Client\Client\obj\Debug\Client.exe
+C:\Users\AnjeL\Desktop\Server-Cleint\Server-Client\Client\Client\obj\Debug\Client.pdb

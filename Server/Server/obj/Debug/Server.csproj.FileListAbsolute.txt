@@ -10,3 +10,6 @@ C:\Users\JEMZ\Desktop\Server-Client\Server\Server\obj\Debug\Server.pdb
 C:\Users\JEMZ\Desktop\Server-Client\Server\Server\bin\Debug\Server.exe
 C:\Users\JEMZ\Desktop\Server-Client\Server\Server\bin\Debug\Server.pdb
 C:\Users\JEMZ\Desktop\Server-Client\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\AnjeL\Desktop\Server-Cleint\Server-Client\Server\Server\bin\Debug\Server.exe.config
+C:\Users\AnjeL\Desktop\Server-Cleint\Server-Client\Server\Server\obj\Debug\Server.exe
+C:\Users\AnjeL\Desktop\Server-Cleint\Server-Client\Server\Server\obj\Debug\Server.pdb

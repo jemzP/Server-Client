@@ -25,10 +25,10 @@ namespace Server
                 readByte = clientSocket.Receive(Buffer);
                 byte[] rData = new byte[readByte];
                 Array.Copy(Buffer, rData, readByte);
-                Console.WriteLine("New Message: " + System.Text.Encoding.UTF8.GetString(rData));
+                Console.WriteLine("Client Message: " + System.Text.Encoding.UTF8.GetString(rData));
             } while (readByte > 0);
 
-            Console.WriteLine("Client Disconected");
+            Console.WriteLine("Disconnected to Client");
             Console.ReadKey();
         }
     }
